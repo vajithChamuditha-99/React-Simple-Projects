@@ -1,4 +1,2 @@
 # React-Simple-Projects
 
-<br/>
-
