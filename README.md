@@ -4,4 +4,4 @@
 <br/>
 <br/>
 
-Buttons generator
+⭐ Buttons generator
