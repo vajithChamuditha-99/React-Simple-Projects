@@ -1,0 +1,58 @@
+.detailComponent {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px;
+  margin-bottom: 30px;
+}
+
+.detailComponent > * {
+  flex: 1 1 200px;
+  margin: 10px;
+}
+
+.helpfulShortcutsUpper {
+  margin-top: 20px;
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
+
+.helpfulShortcutsBelow {
+  display: flex;
+}
+
+.helpfulShortcutsBelow > * {
+  flex: 1 1 200px;
+}
+
+.main {
+  margin-left: 25px;
+}
+
+.shortcuts {
+  align-items: center;
+  text-align: center;
+}
+
+.icon {
+  background-color: white;
+}
+
+.buttonShortcut {
+  padding: 23px 27px;
+  background-color: white;
+  border-radius: 100%;
+  border:none;
+}
+
+.buttonDiv{
+  color: white;
+  background-color: white;
+}
+
+.UIComponent{
+  background-color: rgb(230, 233, 236);
+}
+
+*{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
