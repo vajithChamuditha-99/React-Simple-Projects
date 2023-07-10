@@ -1,7 +1,4 @@
 # React-Simple-Projects
 
-
-<br/>
-<br/>
-
-
+⭐ Buttons generator <br/>
+⭐ Progressive bar 
