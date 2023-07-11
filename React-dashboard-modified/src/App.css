@@ -1,0 +1,107 @@
+.issueComponent2 {
+  background-color: white;
+  display: flex;
+  margin-right: 20%;
+  margin-bottom: 5%;
+}
+
+.TableComponent {
+  width: 80%;
+  margin-top: 20px;
+  margin-right: 10%;
+}
+
+.tableButtonDiv {
+  margin-right: 85%;
+  align-content: flex-start;
+  justify-content: left;
+  margin-bottom: 2%;
+}
+
+.ChartComponent {
+  margin-left: 0px;
+}
+
+.UIComponent {
+  background-color: rgb(230, 233, 236);
+  font-family: 'Helvetica';
+}
+.currIsseusHeading {
+  display: flex;
+  flex-wrap: wrap;
+}
+.currIsseusHeading > * {
+  flex: 1 1 10px;
+  margin-bottom: 20px;
+}
+
+.ContainerDiv {
+  display: contents;
+  flex-wrap: wrap;
+  margin: -10px;
+}
+
+.ContainerDiv > * {
+  flex: 1 1 5px;
+  margin-left: 30px;
+}
+
+.issueTableHead {
+  border-color: #eff1f2;
+  color: #737777;
+}
+.detailComponent {
+  display: flex;
+  flex-wrap: wrap;
+  width: 86%;
+  margin-bottom: 30px;
+}
+
+.detailComponent > * {
+  flex: 1 1 20px;
+  margin: 10px;
+}
+
+.helpfulShortcutsUpper {
+  margin-top: 20px;
+  margin-left: 25px;
+  margin-bottom: 20px;
+}
+
+.helpfulShortcutsBelow {
+  display: flex;
+  font-size: 0.93rem;
+}
+
+.helpfulShortcutsBelow > * {
+  flex: 1 1 200px;
+}
+
+.main {
+  margin-left: 25px;
+}
+
+.shortcuts {
+  align-items: center;
+  text-align: center;
+}
+
+.icon {
+  background-color: white;
+}
+
+.buttonShortcut {
+  padding: 23px 27px;
+  background-color: white;
+  border-radius: 100%;
+  border: none;
+}
+
+.buttonDiv {
+  color: white;
+  background-color: white;
+}
+.helpfulShortcuts {
+  margin-bottom: 40px;
+  width: 81%;
+}
