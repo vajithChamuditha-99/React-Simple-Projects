@@ -3,4 +3,4 @@
 ⭐ Buttons generator <br/>
 ⭐ Progressive bar <br/>
 ⭐ Dashboard <br/>
-⭐ Modified Dashboard
+⭐ Modified Dashboard <br/>
